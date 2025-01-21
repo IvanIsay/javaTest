@@ -6,6 +6,7 @@ public class Main {
 
         test calculadora = new test();
 
+        System.out.println(" ** Operaciones sobre 2 Numeros: ** " );
         System.out.println("Suma: " + calculadora.sumar(10,5) );
         System.out.println("Resta: " + calculadora.restar(10,5) );
         System.out.println("Multiplicacion: " + calculadora.multiplicar(10,5) );
